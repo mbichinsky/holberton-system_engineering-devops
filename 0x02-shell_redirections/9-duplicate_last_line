@@ -1,2 +1,3 @@
 #!/bin/bash
-awk tail -1 d iacta
+awk tail -1 d iacta >> iacta
+`
